@@ -1,0 +1,13 @@
+python-dotenv
+google-generativeai
+langchain
+langchain-community
+langchain-huggingface
+langchain-google-genai
+PyPDF2
+faiss-cpu
+streamlit
+sentence-transformers
+torch
+numpy
+-e .
